@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpotiClone-Bolivar-Back", "SpotiClone-Bolivar-Back\SpotiClone-Bolivar-Back.csproj", "{E58A13E8-FD1E-45AC-9449-1312CC23E8BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E58A13E8-FD1E-45AC-9449-1312CC23E8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E58A13E8-FD1E-45AC-9449-1312CC23E8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E58A13E8-FD1E-45AC-9449-1312CC23E8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E58A13E8-FD1E-45AC-9449-1312CC23E8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CCD56F8A-ADD8-4782-80D7-EF04EF8E4616}
+	EndGlobalSection
+EndGlobal
